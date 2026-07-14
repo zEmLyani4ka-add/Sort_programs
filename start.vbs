@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "C:\sort_proga.exe", 0, False
